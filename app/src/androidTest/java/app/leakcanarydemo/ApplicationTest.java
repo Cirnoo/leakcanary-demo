@@ -1,4 +1,4 @@
-package demo.leakcanary.srain.in.leakcanarydemo;
+package app.leakcanarydemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
